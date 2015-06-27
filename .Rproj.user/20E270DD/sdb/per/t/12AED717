@@ -1,0 +1,19 @@
+{
+    "contents" : "",
+    "created" : 1434927163839.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "12AED717",
+    "lastKnownWriteTime" : 6066188612560498688,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "contentUrl" : "content?title=Documentation+for+package+%E2%80%98flux%E2%80%99&file=05f2af00c9fc4acb806f681e13746545",
+        "title" : "Documentation for package ‘flux’"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "type" : "urlcontent"
+}
